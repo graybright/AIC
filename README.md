@@ -1,0 +1,2 @@
+# AIC
+Artificial Intelligence Championship
